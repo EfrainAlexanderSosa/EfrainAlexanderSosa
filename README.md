@@ -41,7 +41,7 @@ Integración de IA · Automatización con agentes · Bots · Asistentes intelige
 
 ---
 
-# Proyectos seleccionados
+## Proyectos seleccionados
 
 ## PFS Repuestos
 
@@ -94,10 +94,10 @@ También desarrollo prototipos y soluciones relacionadas con:
 
 ---
 
-## SOSA FORGE
+## Sosa Force
 
-**SOSA FORGE** es una iniciativa orientada al desarrollo de software, automatización e inteligencia artificial aplicada a negocios.
+**Sosa Force** es un estudio de tecnología orientado al desarrollo de páginas web, software, automatización e inteligencia artificial aplicada a negocios.
 
 Desarrollo soluciones como aplicaciones web, sistemas internos, automatizaciones, bots, integraciones y herramientas con IA para mejorar procesos, gestión y atención.
 
-**Build · Automate · Scale**
+[Web de Sosa Force](https://sosaforce.com/) · [LinkedIn](https://www.linkedin.com/in/efrain-alexander-sosa-quispe-9708a7351/)

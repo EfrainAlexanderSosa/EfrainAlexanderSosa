@@ -100,4 +100,4 @@ También desarrollo prototipos y soluciones relacionadas con:
 
 Desarrollo soluciones como aplicaciones web, sistemas internos, automatizaciones, bots, integraciones y herramientas con IA para mejorar procesos, gestión y atención.
 
-[Web de Sosa Force](https://sosaforce.com/) · [LinkedIn](https://www.linkedin.com/in/efrain-alexander-sosa-quispe-9708a7351/)
+[Web de Sosa Force](https://sosaforce.com/)
